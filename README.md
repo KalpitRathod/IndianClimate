@@ -1,6 +1,6 @@
 # Indian Climate Change Project 🌏
 A public project aimed at gathering and analyzing data to predict climate change trends in India.
-This project focuses on collecting a variety of environmental, atmospheric, and geographical data to build predictive models for climate scenarios. The insights derived can be used to inform policies, promote sustainability, and mitigate the effects of climate change.
+This project focuses on collecting a variety of environmental, atmospheric, and geographical data to build predictive models for climate scenarios. The insights derived can be used to inform policies, promote sustainability, and mitigate the effects of [climate change](https://en.wikipedia.org/wiki/Climate_change).
 
 # Project Goals
 - Collect comprehensive data on climate-related variables like temperature, rainfall, air quality, soil moisture, and more.
@@ -92,3 +92,5 @@ This project focuses on collecting a variety of environmental, atmospheric, and 
     - Data on road infrastructure and traffic patterns, especially useful for understanding the effects of climate change on transportation networks.
 13. **IMD (Indian Meteorological Department)**
     - Key resource for weather, monsoon patterns, and extreme weather event data, as well as their seasonal variations.
+
+
