@@ -65,14 +65,45 @@ This project focuses on collecting a variety of environmental, atmospheric, and 
 3. **Extreme Events**
    - Historical data on cyclones, heatwaves, and floods.
 
-## Key Sources in India
-- **IMD (Indian Meteorological Department)**: Weather data, rainfall, temperature, and seasonal patterns.
-- **ISRO Satellites**: Data on land use, vegetation, and oceanic conditions.
-- **CPCB (Central Pollution Control Board)**: Air quality and aerosols.
-- **ICAR (Indian Council of Agricultural Research)**: Soil and crop data.
-- **IWMI (International Water Management Institute)**: Groundwater and water body monitoring.
+## Key Sourcesa
+1. **IMD (Indian Meteorological Department)**
+   - Data on temperature, humidity, precipitation, wind, solar radiation, and extreme weather events such as cyclones, heatwaves, and floods.
 
-## Prioritization for Limited Resources
-1. **High-Impact Parameters**: Temperature, humidity, pressure, and rainfall (easiest to measure locally).
-2. **Regional Data**: Focus on state-level or local conditions if national data isn't detailed.
-3. **Collaboration**: Partner with research institutions like IITs, IISc, or local universities for access to specialized datasets.
+2. **ISRO (Indian Space Research Organisation)**
+   - Satellite data on land use, vegetation, oceanic conditions, and environmental monitoring, which can contribute to land surface parameters, water levels, and urbanization patterns.
+
+3. **CPCB (Central Pollution Control Board)**
+   - Data on air quality, including greenhouse gases (CO2, methane) and aerosols (PM2.5, PM10), which will help in understanding pollution levels and air quality trends.
+
+4. **ICAR (Indian Council of Agricultural Research)**
+   - Information on soil moisture, crop patterns, and agricultural data relevant to climate modeling and predictions, particularly for monsoon and drought events.
+
+5. **IWMI (International Water Management Institute)**
+   - Data on groundwater levels, water bodies, and surface water, useful for monitoring droughts, floods, and water resource management.
+
+6. **NRSC (National Remote Sensing Centre)**
+   - Satellite-based remote sensing data for monitoring land use, land cover, vegetation, and surface albedo, crucial for understanding land surface parameters and their impact on climate.
+
+7. **NABARD (National Bank for Agriculture and Rural Development)**
+   - Provides data on rural development, agriculture, and environmental sustainability, which could inform policy decisions around climate resilience in agriculture.
+
+8. **MoEFCC (Ministry of Environment, Forest and Climate Change)**
+   - Data on forest cover, biodiversity, and climate change, as well as data on carbon sequestration and conservation efforts that affect climate patterns.
+
+9. **FSI (Forest Survey of India)**
+   - Data on forest cover, deforestation rates, and forest management that can contribute to understanding seasonal cycles and land use changes.
+
+10. **UIDAI (Unique Identification Authority of India)**
+    - Demographic data for population distribution, which can help analyze regional climate impact and identify vulnerable areas.
+
+11. **CES (Centre for Earth Science Studies)**
+    - Geospatial data related to coastal areas, natural disasters, and climate change impact on ecosystems, which can aid in predicting extreme events like cyclones and floods.
+
+12. **WRI India (World Resources Institute India)**
+    - Provides datasets related to sustainable development, natural resource management, and climate adaptation strategies.
+
+13. **NHAI (National Highways Authority of India)**
+    - Data on road infrastructure and traffic patterns, especially useful for understanding the effects of climate change on transportation networks.
+
+14. **IMD (Indian Meteorological Department)**
+    - Key resource for weather, monsoon patterns, and extreme weather event data, as well as their seasonal variations.
