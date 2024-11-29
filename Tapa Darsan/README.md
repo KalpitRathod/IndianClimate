@@ -5,6 +5,9 @@
 
 The project uses a combination of weather data APIs, real-time data fetching, and cloud-based storage to continuously update and present the temperature information, offering insights into climate trends and helping decision-makers in various sectors.
 
+## Data Collection
+- **Daily Temperature - 70 years Data for Major Indian Cities**: Historical data taken from [Open City-Urban Data Portal](https://data.opencity.in/dataset/daily-temperature-70-years-data-for-major-indian-cities)
+
 ## Features
 - **Real-Time Temperature Tracking**: Get live updates of the temperature for each city in India.
 - **Data Visualization**: View interactive graphs and heatmaps for temperature patterns.
