@@ -93,4 +93,5 @@ This project focuses on collecting a variety of environmental, atmospheric, and 
 13. **IMD (Indian Meteorological Department)**
     - Key resource for weather, monsoon patterns, and extreme weather event data, as well as their seasonal variations.
 
-
+## Live Pages
+1. **[Real time Air Quality Index from various locations](https://kalpitrathod.github.io/IndianClimate/Real%20time%20Air%20Quality%20Index%20from%20various%20locations/index.html)**
